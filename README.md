@@ -14,6 +14,10 @@
 
 ### Ingress
 
-### Deployment on AWS
+* nginx ingress controller
+
+### Deployment on Google Cloud
+
+* google cloud load balancer
 
 ### HTTPS
